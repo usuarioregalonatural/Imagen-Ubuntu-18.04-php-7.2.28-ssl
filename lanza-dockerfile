@@ -1,0 +1,2 @@
+docker build -t vicsoft01/ubuntu18.04-apache2.2-php7.2-ssl:latest .
+
